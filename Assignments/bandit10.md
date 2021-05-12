@@ -3,7 +3,7 @@
 
 Author: [Kunwar Preet Singh](https://github.com/enkryp)
 
-Problem Page: [bandit10](https://overthewire.org/bandit/bandit11.html) 
+Problem Page: [bandit10](https://overthewire.org/wargames/bandit/bandit11.html) 
 
 ## List of Commands Used
 ```
@@ -12,7 +12,7 @@ base64
 
 ## Walkthrough
 
-The lvl was simply about decoding the base64 data. Which is easily acheived by "base64 -d".
+The lvl was about decoding the base64 data. This can be easily acheived by "base64 -d".
 
 ## Password
 IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR

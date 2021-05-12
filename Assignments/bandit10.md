@@ -3,7 +3,7 @@
 
 Author: [Kunwar Preet Singh](https://github.com/enkryp)
 
-Problem Page: [bandit10](https://overthewire.org/bandit/bandit10) 
+Problem Page: [bandit10](https://overthewire.org/bandit/bandit11.html) 
 
 ## List of Commands Used
 ```
